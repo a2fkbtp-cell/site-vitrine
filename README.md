@@ -1,3 +1,4 @@
+[index.html](https://github.com/user-attachments/files/24110882/index.html)
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -94,7 +95,7 @@
                 Valorisation CEE pour projets tertiaires : de 50 000 € à 300 000 € de primes sur vos travaux de rénovation énergétique
             </p>
             <div class="flex flex-col md:flex-row gap-4 justify-center items-center">
-                <a href="mailto:votre@email.com?subject=Demande de diagnostic CEE&body=Bonjour Farid,%0D%0A%0D%0AJe souhaite obtenir un diagnostic CEE pour mon projet.%0D%0A%0D%0ACordialement," class="bg-white text-purple-600 px-8 py-4 rounded-full font-semibold text-lg hover:bg-gray-100 transition">
+                <a href="/cdn-cgi/l/email-protection#addbc2d9dfc8edc8c0ccc4c183cec2c092ded8cfc7c8ced990e9c8c0ccc3c9c88dc9c88dc9c4cccac3c2ded9c4ce8deee8e88bcfc2c9d490efc2c3c7c2d8df8debccdfc4c981889de9889dec889de9889dece7c88ddec2d8c5ccc4d9c88dc2cfd9c8c3c4df8dd8c38dc9c4cccac3c2ded9c4ce8deee8e88dddc2d8df8dc0c2c38ddddfc2c7c8d983889de9889dec889de9889deceec2dfc9c4ccc1c8c0c8c3d981" class="bg-white text-purple-600 px-8 py-4 rounded-full font-semibold text-lg hover:bg-gray-100 transition">
                     Analyser mon projet
                 </a>
                 <a href="#principe" class="border-2 border-white text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-white/10 transition">
@@ -228,7 +229,7 @@
             
             <div class="mt-12 text-center">
                 <p class="text-lg text-gray-600 mb-6">Ces estimations sont basées sur le référentiel PNCEE 2023-2024 et des projets réels.</p>
-                <a href="mailto:votre@email.com?subject=Estimation projet CEE&body=Bonjour Farid,%0D%0A%0D%0AJe souhaite une estimation CEE pour mon projet :%0D%0A%0D%0A- Type : %0D%0A- Localisation : %0D%0A- Surface : %0D%0A- Budget travaux : %0D%0A%0D%0ACordialement," class="inline-block bg-purple-600 text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-purple-700 transition">
+                <a href="/cdn-cgi/l/email-protection#99eff6edebfcd9fcf4f8f0f5b7faf6f4a6eaecfbf3fcfaeda4dceaedf0f4f8edf0f6f7b9e9ebf6f3fcedb9dadcdcbffbf6fde0a4dbf6f7f3f6ecebb9dff8ebf0fdb5bca9ddbca9d8bca9ddbca9d8d3fcb9eaf6ecf1f8f0edfcb9ecf7fcb9fceaedf0f4f8edf0f6f7b9dadcdcb9e9f6ecebb9f4f6f7b9e9ebf6f3fcedb9a3bca9ddbca9d8bca9ddbca9d8b4b9cde0e9fcb9a3b9bca9ddbca9d8b4b9d5f6faf8f5f0eaf8edf0f6f7b9a3b9bca9ddbca9d8b4b9caecebfff8fafcb9a3b9bca9ddbca9d8b4b9dbecfdfefcedb9edebf8eff8ece1b9a3b9bca9ddbca9d8bca9ddbca9d8daf6ebfdf0f8f5fcf4fcf7edb5" class="inline-block bg-purple-600 text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-purple-700 transition">
                     Estimer mon projet
                 </a>
             </div>
@@ -396,7 +397,7 @@
             <p class="text-xl mb-8 text-purple-100">
                 Chaque jour sans analyse CEE, c'est potentiellement des dizaines de milliers d'euros qui s'évaporent.
             </p>
-            <a href="mailto:votre@email.com?subject=Demande de diagnostic CEE gratuit&body=Bonjour Farid,%0D%0A%0D%0AJe souhaite un diagnostic CEE gratuit pour mon projet.%0D%0A%0D%0AInformations :%0D%0A- Type de projet : %0D%0A- Localisation : %0D%0A- État d'avancement : %0D%0A%0D%0ACordialement," class="inline-block bg-white text-purple-600 px-10 py-5 rounded-full font-bold text-lg hover:bg-gray-100 transition shadow-xl">
+            <a href="/cdn-cgi/l/email-protection#2e58415a5c4b6e4b434f4742004d4143115d5b4c444b4d5a136a4b434f404a4b0e4a4b0e4a474f4940415d5a474d0e6d6b6b0e495c4f5a5b475a084c414a57136c414044415b5c0e684f5c474a020b1e6a0b1e6f0b1e6a0b1e6f644b0e5d415b464f475a4b0e5b400e4a474f4940415d5a474d0e6d6b6b0e495c4f5a5b475a0e5e415b5c0e4341400e5e5c41444b5a000b1e6a0b1e6f0b1e6a0b1e6f674048415c434f5a4741405d0e140b1e6a0b1e6f030e7a575e4b0e4a4b0e5e5c41444b5a0e140e0b1e6a0b1e6f030e62414d4f42475d4f5a4741400e140e0b1e6a0b1e6f030eeda75a4f5a0e4a094f584f404d4b434b405a0e140e0b1e6a0b1e6f0b1e6a0b1e6f6d415c4a474f424b434b405a02" class="inline-block bg-white text-purple-600 px-10 py-5 rounded-full font-bold text-lg hover:bg-gray-100 transition shadow-xl">
                 Demander un diagnostic gratuit
             </a>
         </div>
@@ -417,8 +418,7 @@
                         <p class="text-gray-700 mb-6">
                             Pour un diagnostic CEE rapide, envoyez-moi directement vos documents et informations projet par email.
                         </p>
-                        <a href="mailto:votre@email.com?subject=Demande de diagnostic CEE&body=Bonjour Farid,%0D%0A%0D%0AJe souhaite obtenir un diagnostic CEE pour mon projet.%0D%0A%0D%0AInformations projet :%0D%0A- Type de projet : %0D%0A- Localisation : %0D%0A- Surface approximative : %0D%0A- Budget travaux estimé : %0D%0A- État d'avancement : %0D%0A%0D%0ACordialement," 
-                           class="block w-full bg-purple-600 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-purple-700 transition text-center">
+                        <a href="/cdn-cgi/l/email-protection#f68099828493b6939b979f9ad895999bc98583949c939582cbb2939b97989293d69293d6929f9791989985829f95d6b5b3b3d09499928fcbb499989c998384d6b097849f92dad3c6b2d3c6b7d3c6b2d3c6b7bc93d68599839e979f8293d699948293989f84d68398d6929f9791989985829f95d6b5b3b3d686998384d69b9998d68684999c9382d8d3c6b2d3c6b7d3c6b2d3c6b7bf989099849b97829f999885d68684999c9382d6ccd3c6b2d3c6b7dbd6a28f8693d69293d68684999c9382d6ccd6d3c6b2d3c6b7dbd6ba9995979a9f8597829f9998d6ccd6d3c6b2d3c6b7dbd6a5838490979593d697868684998e9f9b97829f8093d6ccd6d3c6b2d3c6b7dbd6b48392919382d68284978097838ed69385829f9b355fd6ccd6d3c6b2d3c6b7dbd6357f829782d692d19780979895939b939882d6ccd6d3c6b2d3c6b7d3c6b2d3c6b7b59984929f979a939b939882da" class="block w-full bg-purple-600 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-purple-700 transition text-center">
                             📧 Envoyer un email
                         </a>
                     </div>
@@ -477,27 +477,4 @@
                 <div>
                     <h4 class="font-bold text-white mb-4">Liens rapides</h4>
                     <ul class="space-y-2">
-                        <li><a href="#principe" class="hover:text-purple-400 transition">Le principe CEE</a></li>
-                        <li><a href="#valorisation" class="hover:text-purple-400 transition">Exemples de valorisation</a></li>
-                        <li><a href="#process" class="hover:text-purple-400 transition">Process d'accompagnement</a></li>
-                        <li><a href="#faq" class="hover:text-purple-400 transition">FAQ</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h4 class="font-bold text-white mb-4">Contact</h4>
-                    <ul class="space-y-2 text-gray-400">
-                        <li>Farid Khemici</li>
-                        <li>📞 [Votre numéro]</li>
-                        <li>✉️ [Votre email]</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="border-t border-gray-800 pt-8 text-center text-gray-500 text-sm">
-                <p>&copy; 2024 A2FK. Tous droits réservés. | Mandataire CEE – Dispositif PNCEE 2023-2024</p>
-            </div>
-        </div>
-    </footer>
-
-</body>
-</html>
-
+                        <li><a href="#principe" class="hover:text-purple-400 trans
