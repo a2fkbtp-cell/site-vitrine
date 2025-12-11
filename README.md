@@ -1,5 +1,4 @@
-# site-vitrine
-Site vitrine
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
