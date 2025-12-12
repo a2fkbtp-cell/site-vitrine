@@ -126,7 +126,8 @@
         <div class="max-w-7xl mx-auto">
             <h2 class="section-title text-center mb-4">Le principe des CEE</h2>
             <p class="text-xl text-gray-600 text-center mb-16 max-w-3xl mx-auto">
-                Les Certificats d'Économies d'Énergie (CEE) sont un dispositif réglementaire qui transforme vos travaux de rénovation énergétique en primes financières directes.
+            Les Certificats d'Économies d'Énergie (CEE) constituent un dispositif réglementaire créé en 2006 et renforcé progressivement par l'État français dans le cadre de la transition énergétique, ils  transforment vos travaux de rénovation énergétique en primes financières directes.
+
             </p>
             
             <div class="grid md:grid-cols-3 gap-8">
@@ -134,8 +135,7 @@
                     <div class="text-4xl mb-4">🏛️</div>
                     <h3 class="text-2xl font-bold mb-3">Qui finance ?</h3>
                     <p class="text-gray-700">
-                       es Certificats d'Économies d'Énergie (CEE) constituent un dispositif réglementaire créé en 2006 et renforcé progressivement par l'État français dans le cadre de la transition énergétique.
-
+                      
 Le principe est simple :
 
 Les fournisseurs d'énergie (appelés "obligés") - EDF, Total Énergies, Engie, Leclerc, Auchan, Carrefour, etc. - sont contraints par la loi de financer des économies d'énergie sous peine de lourdes pénalités financières.
@@ -152,7 +152,7 @@ Pour remplir leurs obligations, ils achètent des certificats générés par des
                     <p class="text-gray-700">
                         De 50 000 € à 300 000 € selon votre opération.Concrètement pour votre projet :
 
-Chaque lot technique de votre rénovation génère des kWh cumac selon des fiches d'opérations standardisées (référentiel PNCEE 2023-2024) :
+Chaque lot technique de votre rénovation génère des kWh cumac selon des fiches d'opérations standardisées (référentiel PNCEE 2025) :
 - Isolation thermique Enveloppe (toiture, murs, planchers)
 - Systèmes CVC performants
 - Menuiseries hautes performances
