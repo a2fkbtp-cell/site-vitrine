@@ -126,7 +126,8 @@
         <div class="max-w-7xl mx-auto">
             <h2 class="section-title text-center mb-4">Le principe des CEE</h2>
             <p class="text-xl text-gray-600 text-center mb-16 max-w-3xl mx-auto">
-                Les Certificats d'Économies d'Énergie (CEE) sont un dispositif réglementaire qui transforme vos travaux de rénovation énergétique en primes financières directes.
+                Les Certificats d'Économies d'Énergie (CEE) constituent un dispositif réglementaire créé en 2006 et renforcé progressivement par l'État français dans le cadre de la transition énergétique. 
+                Le principe est simple : Les fournisseurs d'énergie (appelés "obligés") - EDF, Total Énergies, Engie, Leclerc, Auchan, Carrefour, etc. - sont contraints par la loi de financer des économies d'énergie sous peine de lourdes pénalités financières. Pour remplir leurs obligations, ils achètent des certificats générés par des travaux d'économies d'énergie réalisés par des professionnels comme vous. Ces certificats se mesurent en kWh cumac (kilowattheure cumulé et actualisé sur la durée de vie des équipements).
             </p>
             
             <div class="grid md:grid-cols-3 gap-8">
@@ -134,7 +135,8 @@
                     <div class="text-4xl mb-4">🏛️</div>
                     <h3 class="text-2xl font-bold mb-3">Qui finance ?</h3>
                     <p class="text-gray-700">
-                        Les obligés (EDF, Total, Engie, Leclerc...) sont contraints par la loi de financer des économies d'énergie. Ils achètent vos kWh cumac sous forme de primes.
+                        De 50 000 € à 300 000 € selon votre opération.
+                        Concrètement pour votre projet : Chaque lot technique de votre rénovation génère des kWh cumac selon des fiches d'opérations standardisées (référentiel PNCEE 2023-2024) : - Isolation thermique Enveloppe (toiture, murs, planchers) - Systèmes CVC performants - Menuiseries hautes performances - Éclairage LED avec détection de présence - ECS solaire thermique ou thermodynamique - Gestion Technique du Bâtiment (GTB) - VMC double flux Ces kWh cumac sont ensuite valorisés auprès des obligés, qui vous versent une prime proportionnelle aux économies d'énergie générées.
                     </p>
                 </div>
                 
@@ -201,7 +203,6 @@
                             <li>✓ Isolation façade (ITE)</li>
                             <li>✓ CVC avec récupération</li>
                             <li>✓ LED bureau + parking</li>
-                            <li>✓ Ascenseurs éco</li>
                             <li>✓ Menuiseries hautes perf.</li>
                         </ul>
                     </div>
@@ -251,7 +252,7 @@
                         <div class="flex-shrink-0 w-12 h-12 bg-purple-600 text-white rounded-full flex items-center justify-center font-bold text-xl">1</div>
                         <div>
                             <h3 class="text-xl font-bold mb-2">Audit technique & identification</h3>
-                            <p class="text-gray-600">Analyse de vos documents (devis, CCTP, plans) et identification précise des gisements CEE selon le référentiel PNCEE 2023-2024.</p>
+                            <p class="text-gray-600">Analyse de vos documents (devis, CCTP, plans) et identification précise des gisements CEE selon le référentiel PNCEE 2025.</p>
                         </div>
                     </div>
                     
@@ -291,7 +292,7 @@
                         <div class="flex-shrink-0 w-12 h-12 bg-purple-600 text-white rounded-full flex items-center justify-center font-bold text-xl">6</div>
                         <div>
                             <h3 class="text-xl font-bold mb-2">Valorisation finale</h3>
-                            <p class="text-gray-600">Suivi jusqu'au versement des primes sur votre compte. Reporting transparent à chaque étape.</p>
+                            <p class="text-gray-600">Suivi jusqu'au versement des primes sur votre compte. Reporting transparent à chaque étape.Une application nouvelle génération est en cours de développement pour délivrer une expérience utilisateur remarquable et parfaitement adaptée à vos besoins.🚀</p>
                         </div>
                     </div>
                 </div>
@@ -369,12 +370,12 @@
                 
                 <div class="bg-white p-6 rounded-xl shadow-sm">
                     <h3 class="text-xl font-bold mb-3">Quels types de travaux génèrent des primes ?</h3>
-                    <p class="text-gray-700">Tous les travaux d'amélioration énergétique : isolation (toiture, murs, planchers), menuiseries, CVC performant, ECS solaire/thermodynamique, LED, GTB, VMC double flux, ascenseurs éco, etc. Chaque lot a ses fiches CEE spécifiques avec des exigences de performance.</p>
+                    <p class="text-gray-700">Tous les travaux d'amélioration énergétique : isolation (toiture, murs, planchers), menuiseries, CVC performant, ECS solaire/thermodynamique, LED, GTB, VMC double flux, etc. Chaque lot a ses fiches CEE spécifiques avec des exigences de performance.</p>
                 </div>
                 
                 <div class="bg-white p-6 rounded-xl shadow-sm">
                     <h3 class="text-xl font-bold mb-3">Combien de temps pour obtenir les primes ?</h3>
-                    <p class="text-gray-700">Le versement intervient généralement 4 à 8 mois après la facturation complète des travaux et la validation des dossiers par les obligés. Je gère l'intégralité du suivi jusqu'au paiement final.</p>
+                    <p class="text-gray-700">Le versement intervient généralement 1 à 2 mois après la facturation complète des travaux et la validation des dossiers par les obligés. Je gère l'intégralité du suivi jusqu'au paiement final.</p>
                 </div>
                 
                 <div class="bg-white p-6 rounded-xl shadow-sm">
@@ -439,9 +440,9 @@
                         <h3 class="font-bold text-lg mb-4">Coordonnées directes</h3>
                         <div class="space-y-3 text-gray-700">
                             <p><strong>Farid Khemici</strong></p>
-                            <p>📞 [Votre numéro]</p>
-                            <p>✉️ [Votre email]</p>
-                            <p>📍 Spécialiste projets tertiaires Sud & PACA</p>
+                            <p>📞 06 50 57 83 88</p>
+                            <p>✉️ a2fkbtpgmail;com</p>
+                            <p>📍 Spécialiste projets tertiaires et Réhabilitations complexes</p>
                         </div>
                     </div>
                     
