@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/24110882/index.html)
+(https://github.com/user-attachments/files/24110882/index.html)
 
 <html lang="fr">
 <head>
@@ -74,7 +74,7 @@
     <!-- Navigation -->
     <nav class="fixed top-0 w-full bg-white/95 backdrop-blur-sm shadow-sm z-50">
         <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-            <div class="text-2xl font-bold gradient-text">A2FK</div>
+            <div class="text-2xl font-bold gradient-text">A2FK   Ingénierie & conformité CEE pour grands projets </div>
             <div class="hidden md:flex space-x-8">
                 <a href="#principe" class="text-gray-700 hover:text-purple-600 transition">Le principe</a>
                 <a href="#valorisation" class="text-gray-700 hover:text-purple-600 transition">Valorisation</a>
@@ -311,7 +311,7 @@ Ces kWh cumac sont ensuite valorisés auprès des obligés, qui vous versent une
                         <div>
                             <h3 class="text-xl font-bold mb-2">Valorisation finale</h3>
                             <p class="text-gray-600">Suivi jusqu'au versement des primes sur votre compte. Reporting transparent à chaque étape.
-                            Une application nouvelle génération est en cours de développement pour délivrer une expérience utilisateur remarquable et parfaitement adaptée à vos besoins🚀.</p>
+                           Une application dédiée est en cours de développement pour garantir une expérience utilisateur fluide et optimisée, parfaitement adaptée aux besoins des porteurs de projets CEE 🚀.</p>
                         </div>
                     </div>
                 </div>
