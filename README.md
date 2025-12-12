@@ -1,5 +1,5 @@
 [index.html](https://github.com/user-attachments/files/24110882/index.html)
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -310,7 +310,8 @@ Ces kWh cumac sont ensuite valorisés auprès des obligés, qui vous versent une
                         <div class="flex-shrink-0 w-12 h-12 bg-purple-600 text-white rounded-full flex items-center justify-center font-bold text-xl">6</div>
                         <div>
                             <h3 class="text-xl font-bold mb-2">Valorisation finale</h3>
-                            <p class="text-gray-600">Suivi jusqu'au versement des primes sur votre compte. Reporting transparent à chaque étape(Une application est en cours de développement pour un suivi exceptionnel🚀).</p>
+                            <p class="text-gray-600">Suivi jusqu'au versement des primes sur votre compte. Reporting transparent à chaque étape.
+                            Une application nouvelle génération est en cours de développement pour délivrer une expérience utilisateur remarquable et parfaitement adaptée à vos besoins🚀.</p>
                         </div>
                     </div>
                 </div>
@@ -393,7 +394,7 @@ Ces kWh cumac sont ensuite valorisés auprès des obligés, qui vous versent une
                 
                 <div class="bg-white p-6 rounded-xl shadow-sm">
                     <h3 class="text-xl font-bold mb-3">Combien de temps pour obtenir les primes ?</h3>
-                    <p class="text-gray-700">Le versement intervient généralement 4 à 8 mois après la facturation complète des travaux et la validation des dossiers par les obligés. Je gère l'intégralité du suivi jusqu'au paiement final.</p>
+                    <p class="text-gray-700">Le versement intervient généralement 1 à 2 mois après la facturation complète des travaux et la validation des dossiers par les obligés. Je gère l'intégralité du suivi jusqu'au paiement final.</p>
                 </div>
                 
                 <div class="bg-white p-6 rounded-xl shadow-sm">
@@ -525,7 +526,7 @@ Ces kWh cumac sont ensuite valorisés auprès des obligés, qui vous versent une
                 </div>
             </div>
             <div class="border-t border-gray-800 pt-8 text-center text-gray-500 text-sm">
-                <p>&copy; 2024 A2FK. Tous droits réservés. | Mandataire CEE – Dispositif PNCEE 2023-2024</p>
+                <p>&copy; 2025 A2FK. Tous droits réservés. | Mandataire CEE – Dispositif PNCEE 2025</p>
             </div>
         </div>
     </footer>
